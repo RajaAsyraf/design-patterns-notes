@@ -1,4 +1,5 @@
 <?php
+namespace SimUDuck\Duck;
 
 interface FlyBehaviour
 {

@@ -1,4 +1,5 @@
 <?php
+namespace SimUDuck\Duck;
 
 abstract class AbstractDuck
 {

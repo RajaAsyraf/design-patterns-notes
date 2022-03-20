@@ -1,4 +1,5 @@
 <?php
+namespace SimUDuck\Duck;
 
 include_once 'QuackBehaviour.php';
 
